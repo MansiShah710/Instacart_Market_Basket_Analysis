@@ -1,1 +1,6 @@
 # Instacart_Market_Basket_Analysis
+
+Market Basket Analysis is a technique used by retailers to understand customer behavior while purchasing from their stores and also, to uncover association between products. Instacart is a company that provides same-day grocery delivery service from various known stores like Costco, Target, Sprouts, etc. Instacart makes online shopping for groceries and fresh produce really convenient as, with a few clicks, a user can create an order and setup a time for the products to be delivered. A professional shopper is assigned to pick out the items and deliver them to the user. In order to continue improving the customer experience, Instacart tries to predict what a user will choose to have in their next order. This is based on various factors like frequency of the product being ordered, last time it was ordered, etc. By making predictions over a certain group of users, the company will be able to have a better understanding of the demand for their merchandise, thus appropriately adjusting for resupply level and eventually improving the customer shopping experience.
+
+The goal of this project is to develop and compare models which can predict whether a product will be reordered or not.
+
